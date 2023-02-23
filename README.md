@@ -1,7 +1,7 @@
 
 <a href="https://www.facebook.com/je.things.1/">![standard](https://user-images.githubusercontent.com/93860350/220963136-d53ba750-59ec-49b4-a5b0-3478cca8da64.gif)</a>
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/je.things.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/definitelyynotje/?hl=en) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCyKoB4rRchG_1k5x2uWqEKQ) 
 
 ## 💻 Tech Stack:
