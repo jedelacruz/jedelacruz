@@ -60,8 +60,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/jedelacruz/jedelacruz/output/snake.svg" alt="Snake animation" />
 
 ###****
