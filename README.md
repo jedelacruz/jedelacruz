@@ -1,18 +1,5 @@
 <h3 align="left">Yow! My name is Je, I'm 17 from Philippines!</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jedelacruz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jedelacruz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/366063511_1989056608153598_5284496541809399406_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeERJTcRV2y6Sw950a-VoxgCB08rtfPkyNYHTyu18-TI1t2ikrgQkE8kJDpZ2kSBmP9QzbQQrZMxeyIhXMUu90dk&_nc_ohc=u2vozHOHQf4Q7kNvgH1vk1i&_nc_ht=scontent.fmnl17-2.fna&oh=00_AfD8dA0hazviDoTe-44hPaWJ_GfVz7-CPSQ5D20p2V7Wcw&oe=663E4BB6"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
