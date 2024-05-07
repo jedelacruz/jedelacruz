@@ -57,7 +57,7 @@
 
 
 
-
+![](https://komarev.com/ghpvc/?username=jedelacruz&style=flat-square)
 
 
 
