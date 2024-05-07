@@ -1,5 +1,5 @@
 
-<img src="https://github.com/jedelacruz/jedelacruz/assets/93860350/fc62ea77-b58a-4c4e-ad88-f40ac58db537" width="80%">
+<img src="https://github.com/jedelacruz/jedelacruz/assets/93860350/fc62ea77-b58a-4c4e-ad88-f40ac58db537" width="80%" height="30%">
 
 <hr width ="80%">
 <h4>Socials:</h4>
