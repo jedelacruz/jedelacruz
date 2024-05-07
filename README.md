@@ -1,12 +1,7 @@
-<style>
-  hr {
-    height: .5px; /* Set the height you want */
-    background-color: black; /* Optional: Set the color of the line */
-    border: none; /* Optional: Remove the default border */
-  }
-</style>
 
-<hr width="65%"> <!-- You can set the width here -->
+
+<hr width="65%" style="height: .5px;">
+
 
 <img src="https://github.com/jedelacruz/jedelacruz/assets/93860350/fc62ea77-b58a-4c4e-ad88-f40ac58db537" width="65%" >
 
