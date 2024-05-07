@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
 
-<h4>Current Status</h4><br>
+<h4>Current Status</h4>
 - Studying CRUD in PHP, I want to make my own social app <br>
 - Studying 2d and 3d Development in GODOT<br>
 - Turning college this summer, Bachelor of Science in Information Technology
