@@ -1,7 +1,7 @@
 
-<img src="https://github.com/jedelacruz/jedelacruz/assets/93860350/fc62ea77-b58a-4c4e-ad88-f40ac58db537" width="50%" >
+<img src="https://github.com/jedelacruz/jedelacruz/assets/93860350/fc62ea77-b58a-4c4e-ad88-f40ac58db537" width="65%" >
 
-<hr width ="50%">
+<hr width ="65%">
 <h4>Socials:</h4>
 <div align="left">
   <a href="https://www.facebook.com/je.things.1/" target="_blank">
