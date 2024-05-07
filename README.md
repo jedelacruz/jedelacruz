@@ -1,7 +1,5 @@
 
 
-<hr width="65%" style="height: .5px;">
-
 
 <img src="https://github.com/jedelacruz/jedelacruz/assets/93860350/fc62ea77-b58a-4c4e-ad88-f40ac58db537" width="65%" >
 
