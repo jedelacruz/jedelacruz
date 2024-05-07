@@ -57,8 +57,8 @@
 
 <br>
 <br>
-<br>
-![](https://komarev.com/ghpvc/?username=jedelacruz&style=for-the-badge&color=#DC143C)
+
+![](https://komarev.com/ghpvc/?username=jedelacruz&style=flat-square&color=#DC143C)
 
 
 
