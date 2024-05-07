@@ -56,8 +56,9 @@
 - Turning college this summer, Bachelor of Science in Information Technology
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=jedelacruz&style=for-the-badge&color=crimson)
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=jedelacruz&style=for-the-badge&color=#DC143C)
 
 
 
