@@ -1,5 +1,5 @@
-<h3 align="left">Yow! My name is Je, I'm 17 from Philippines!</h3>
-<img src="https://github.com/jedelacruz/jedelacruz/assets/93860350/1aeba61b-a862-4c7d-a0cc-6d0433c231b6">
+
+<img src="https://github.com/jedelacruz/jedelacruz/assets/93860350/1aeba61b-a862-4c7d-a0cc-6d0433c231b6" width="100%">
 <hr style="height: 1px;">
 <h4>Socials:</h4>
 <div align="left">
