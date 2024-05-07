@@ -1,5 +1,5 @@
 <h3 align="left">Yow! My name is Je, I'm 17 from Philippines!</h3>
-
+<hr>
 <h3>Socials</h3>
 <div align="left">
   <a href="https://www.youtube.com/channel/UCyKoB4rRchG_1k5x2uWqEKQ" target="_blank">
