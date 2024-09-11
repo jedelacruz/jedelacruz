@@ -51,9 +51,9 @@
 </div>
 
 <h4>Current Status:</h4>
-- Studying CRUD in PHP, I want to make my own social app <br>
-- Studying 2d and 3d Development in GODOT<br>
-- Turning college this summer, Bachelor of Science in Information Technology
+- Studying C<br>
+- Studying Next Js + Typescript <br>
+- Freshman, Bachelor of Science in Information Technology
 
 <br>
 <br>
