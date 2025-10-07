@@ -51,9 +51,9 @@
 </div>
 
 <h4>Current Status:</h4>
-- Studying C<br>
-- Studying Next Js + Typescript <br>
-- Freshman, Bachelor of Science in Information Technology
+- Working Student<br>
+- Learning Spanish <br>
+- Sophomore, Bachelor of Science in Information Technology
 
 <br>
 <br>
